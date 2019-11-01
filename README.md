@@ -41,6 +41,13 @@ const App = () => {
     </React.Suspense>
   );
 };
+
+const SomeComponent = ({ user }) => {
+  let { data, args } = user.read();
+  //args are what was passed in to the suspender / async function as the second argument
+  // data is the resulting promise result
+  return null;
+};
 ```
 
 ## Error Handling
