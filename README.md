@@ -4,6 +4,20 @@ Not really meant for anything serious yet, and may never be.
 
 This is a package that wraps async functions to be used with Suspense. You can see in the example folder how that looks.
 
+### Run the example
+
+The example contains code that helped me get more familiar with suspense data loading. Take a look at the example/src directory.
+
+```
+yarn
+yarn start
+
+// in another tab
+cd example
+yarn
+yarn start
+```
+
 ## Basic fetch
 
 ```js
