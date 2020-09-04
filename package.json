@@ -34,7 +34,7 @@
     "@types/react": "^16.9.11",
     "@types/react-dom": "^16.9.3",
     "husky": "^3.0.9",
-    "react": "^0.0.0-experimental-f6b8d31a7",
+    "react": "^0.14.0",
     "react-dom": "^0.0.0-experimental-f6b8d31a7",
     "tsdx": "^0.11.0",
     "tslib": "^1.10.0",
